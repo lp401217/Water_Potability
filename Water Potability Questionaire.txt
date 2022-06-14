@@ -1,0 +1,23 @@
+
+                                              QUESTIONAIRE
+                                
+
+     How many water bodies are present?
+     What are the independent and dependent variables?
+     List the features having Null values?
+     What technique is used to replace null values?
+     Is any Outliers present?
+     If we remove the outliers does it affects the performance?
+     Is my dataset is balanced/imbalanced?
+     Is any feature having correlation between each other?
+     Check for any duplicate values present?
+     Is feature having less importance?
+     Find out the important Feature for model building?
+     Is this a Regression/Classification problem?
+     Maximum of how many Classification have been used for model building?
+     Is my model Underfitted or Overfitted?
+     How can evaluate the performance of model?
+     Is any model complexity available?
+     How can we improve better accuracy?
+     Finally make prediction that WATER IS POTABLE TO DRINK OR NOT?
+
